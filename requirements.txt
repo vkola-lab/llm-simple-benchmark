@@ -1,0 +1,11 @@
+vllm==0.6.4
+torch
+omegaconf
+tqdm
+transformers
+numpy
+pandas
+jupyter
+ipykernel
+scikit-learn
+matplotlib

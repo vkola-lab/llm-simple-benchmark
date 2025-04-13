@@ -1,0 +1,8 @@
+venv/
+benchmarks/
+results/
+__pycache__
+run_benchmarks.sh.e*
+run_benchmarks.sh.o*
+config.yml
+notebooks/
