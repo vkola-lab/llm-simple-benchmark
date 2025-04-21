@@ -1,5 +1,6 @@
 venv/
 benchmarks/
+benchmark_summaries/
 results/
 __pycache__
 run_benchmarks.sh.e*

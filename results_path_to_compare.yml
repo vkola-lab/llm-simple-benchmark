@@ -1,0 +1,6 @@
+# This should be a list of paths, it's used by make_benchmark_summaries.py to produce a global table and figures 
+
+results_dirs:
+  - '/projectnb/vkolagrp/bellitti/adrd_simplified_evaluation/results/2025-04-21T110117_cfc0b3bcc2954d27' 
+  - '/projectnb/vkolagrp/bellitti/adrd_simplified_evaluation/results/2025-04-21T124553_b788b813a5834963'
+  - '/projectnb/vkolagrp/bellitti/adrd_simplified_evaluation/results/2025-04-21T140044_54b734821e014afc' # etiology+cog
